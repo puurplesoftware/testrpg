@@ -1,0 +1,67 @@
+C:\Users\Derrick\source\repos\testgame\bin\Debug\netcoreapp2.1\testgame.deps.json
+C:\Users\Derrick\source\repos\testgame\bin\Debug\netcoreapp2.1\testgame.runtimeconfig.json
+C:\Users\Derrick\source\repos\testgame\bin\Debug\netcoreapp2.1\testgame.runtimeconfig.dev.json
+C:\Users\Derrick\source\repos\testgame\bin\Debug\netcoreapp2.1\testgame.dll
+C:\Users\Derrick\source\repos\testgame\bin\Debug\netcoreapp2.1\testgame.pdb
+C:\Users\Derrick\source\repos\testgame\obj\Debug\netcoreapp2.1\testgame.csprojAssemblyReference.cache
+C:\Users\Derrick\source\repos\testgame\obj\Debug\netcoreapp2.1\testgame.csproj.CoreCompileInputs.cache
+C:\Users\Derrick\source\repos\testgame\obj\Debug\netcoreapp2.1\testgame.AssemblyInfoInputs.cache
+C:\Users\Derrick\source\repos\testgame\obj\Debug\netcoreapp2.1\testgame.AssemblyInfo.cs
+C:\Users\Derrick\source\repos\testgame\obj\Debug\netcoreapp2.1\testgame.dll
+C:\Users\Derrick\source\repos\testgame\obj\Debug\netcoreapp2.1\testgame.pdb
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.deps.json
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.runtimeconfig.json
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.runtimeconfig.dev.json
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.dll
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.pdb
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.csprojAssemblyReference.cache
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.csproj.CoreCompileInputs.cache
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.AssemblyInfoInputs.cache
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.AssemblyInfo.cs
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.dll
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.pdb
+C:\Users\Derrick\source\repos\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.csprojAssemblyReference.cache
+C:\Users\Derrick\source\repos\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.csproj.CoreCompileInputs.cache
+C:\Users\Derrick\source\repos\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.AssemblyInfoInputs.cache
+C:\Users\Derrick\source\repos\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.AssemblyInfo.cs
+C:\Users\Derrick\source\repos\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.dll
+C:\Users\Derrick\source\repos\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.pdb
+C:\Users\Derrick\source\repos\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.deps.json
+C:\Users\Derrick\source\repos\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.runtimeconfig.json
+C:\Users\Derrick\source\repos\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.runtimeconfig.dev.json
+C:\Users\Derrick\source\repos\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.dll
+C:\Users\Derrick\source\repos\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.pdb
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.deps.json
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.runtimeconfig.json
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.runtimeconfig.dev.json
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.dll
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.pdb
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.csprojAssemblyReference.cache
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.csproj.CoreCompileInputs.cache
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.AssemblyInfoInputs.cache
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.AssemblyInfo.cs
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.dll
+C:\Users\Derrick\Desktop\Programming Projects\testgame-master\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.pdb
+C:\Users\Derrick\source\repos\testgame-master\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.deps.json
+C:\Users\Derrick\source\repos\testgame-master\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.runtimeconfig.json
+C:\Users\Derrick\source\repos\testgame-master\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.runtimeconfig.dev.json
+C:\Users\Derrick\source\repos\testgame-master\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.dll
+C:\Users\Derrick\source\repos\testgame-master\testgame-master\testgame\bin\Debug\netcoreapp2.1\testgame.pdb
+C:\Users\Derrick\source\repos\testgame-master\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.csprojAssemblyReference.cache
+C:\Users\Derrick\source\repos\testgame-master\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.csproj.CoreCompileInputs.cache
+C:\Users\Derrick\source\repos\testgame-master\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.AssemblyInfoInputs.cache
+C:\Users\Derrick\source\repos\testgame-master\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.AssemblyInfo.cs
+C:\Users\Derrick\source\repos\testgame-master\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.dll
+C:\Users\Derrick\source\repos\testgame-master\testgame-master\testgame\obj\Debug\netcoreapp2.1\testgame.pdb
+C:\Users\Derrick\Documents\testgame\obj\Debug\netcoreapp2.1\testgame.csprojAssemblyReference.cache
+C:\Users\Derrick\Documents\testgame\obj\Debug\netcoreapp2.1\testgame.AssemblyInfoInputs.cache
+C:\Users\Derrick\Documents\testgame\obj\Debug\netcoreapp2.1\testgame.AssemblyInfo.cs
+C:\Users\Derrick\Documents\testgame\obj\Debug\netcoreapp2.1\testgame.csproj.CoreCompileInputs.cache
+C:\Users\Derrick\Documents\testgame\obj\Debug\netcoreapp2.1\testgame.dll
+C:\Users\Derrick\Documents\testgame\obj\Debug\netcoreapp2.1\testgame.pdb
+C:\Users\Derrick\Documents\testgame\bin\Debug\netcoreapp2.1\testgame.deps.json
+C:\Users\Derrick\Documents\testgame\bin\Debug\netcoreapp2.1\testgame.runtimeconfig.json
+C:\Users\Derrick\Documents\testgame\bin\Debug\netcoreapp2.1\testgame.runtimeconfig.dev.json
+C:\Users\Derrick\Documents\testgame\bin\Debug\netcoreapp2.1\testgame.dll
+C:\Users\Derrick\Documents\testgame\bin\Debug\netcoreapp2.1\testgame.pdb
+C:\Users\Derrick\Documents\testgame\obj\Debug\netcoreapp2.1\testgame.genruntimeconfig.cache
